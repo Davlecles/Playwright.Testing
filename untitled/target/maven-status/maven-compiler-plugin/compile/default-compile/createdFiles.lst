@@ -1,5 +1,0 @@
-com\qa\example\pages\HomePage.class
-org\example\App.class
-com\qa\example\factory\PlaywrightFactory.class
-com\qa\example\pages\BaseTest.class
-com\qa\example\pages\SimpleFormDemoPage.class
